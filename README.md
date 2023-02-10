@@ -1,1 +1,1 @@
-task 0 where am?
+Create a script that switches the current user
